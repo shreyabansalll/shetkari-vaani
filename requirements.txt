@@ -9,5 +9,5 @@ langchain-text-splitters
 langchain-core
 chromadb
 python-dotenv
-sentence-transformers
+fastembed
 pydantic

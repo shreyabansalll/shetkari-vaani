@@ -11,7 +11,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -35,15 +35,15 @@ app.add_middleware(
 # Configuration
 CHROMA_PERSIST_DIR = Path("chroma_db")
 CHROMA_COLLECTION = "shetkari_knowledge"
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 
 # Initialize vector store (lazy init)
 vectorstore = None
 
 
 def get_embeddings():
-    """Return local HuggingFace embeddings."""
-    return HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
+    """Return local FastEmbed embeddings."""
+    return FastEmbedEmbeddings(model_name=EMBEDDING_MODEL)
 
 
 def get_vectorstore():
