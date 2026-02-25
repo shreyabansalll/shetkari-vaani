@@ -1,0 +1,70 @@
+PM-KISAN SAMMAN NIDHI YOJANA
+Source: pmkisan.gov.in (Official Government of India Portal)
+
+WHAT IS PM-KISAN?
+PM Kisan Samman Nidhi is a central government scheme that provides direct income support of Rs. 6,000 per year to all eligible farmer families across India. Money is transferred directly to bank accounts in 3 equal installments of Rs. 2,000 each.
+
+WHO IS ELIGIBLE?
+- All landholding farmer families with cultivable land
+- Both small and marginal farmers
+- Tenant farmers are NOT eligible (land must be in farmer's name)
+- Family = husband, wife, and minor children
+
+WHO IS NOT ELIGIBLE?
+- Institutional landholders
+- Farmer families where any member is/was an income tax payer
+- Government employees (current or retired)
+- Professionals like doctors, engineers, lawyers, CAs
+- Persons with monthly pension above Rs. 10,000
+
+BENEFIT:
+- Rs. 6,000 per year
+- Paid in 3 installments of Rs. 2,000 each
+- Installment schedule: April-July, August-November, December-March
+- Direct Bank Transfer (DBT) to Aadhaar-linked bank account
+
+HOW TO REGISTER:
+1. Visit pmkisan.gov.in
+2. Click "New Farmer Registration"
+3. Enter Aadhaar number and mobile number
+4. Fill land details (survey number, area, crop)
+5. Submit and verify via OTP
+OR
+Visit nearest CSC (Common Service Centre) with documents
+
+DOCUMENTS REQUIRED:
+- Aadhaar card
+- Bank passbook (account linked to Aadhaar)
+- Land records (7/12 utara / RoR)
+- Mobile number linked to Aadhaar
+
+HOW TO CHECK STATUS:
+- Visit pmkisan.gov.in → "Beneficiary Status"
+- Enter Aadhaar number or mobile number or bank account number
+- Helpline: 155261 or 1800-115-526 (Toll Free)
+
+EKYC IS MANDATORY:
+All PM-Kisan beneficiaries must complete eKYC
+- Online: pmkisan.gov.in → eKYC option (OTP via Aadhaar-linked mobile)
+- Offline: Visit nearest CSC centre with Aadhaar card
+- Without eKYC, installment may be stopped
+
+MARATHI KEYWORDS:
+पीएम किसान, शेतकरी सन्मान निधी, 6000 रुपये, किसान योजना, थेट लाभ हस्तांतरण
+
+HINDI KEYWORDS:
+पीएम किसान, किसान सम्मान निधि, 6000 रुपये, किसान योजना
+
+COMMON FARMER QUESTIONS:
+
+Q: PM Kisan yojana sathi mi eligible aahe ka? (Am I eligible for PM Kisan?)
+A: Tumchi jamin tumchya navavar asel, income tax bharit nasat, ani sarkaari naukri nasel tar PM Kisan sathi eligible aahat. Varshi Rs. 6,000 teen hapta madhe miltat.
+
+Q: PM Kisan madhye register karaycha kasa? (How to register for PM Kisan?)
+A: pmkisan.gov.in var jaa kiva najik CSC center var jaa. Aadhaar, 7/12 utara, ani Aadhaar linked bank account ghewa.
+
+Q: Paise kab aayenge PM Kisan ke? (When will PM Kisan money come?)
+A: Saal mein 3 baar Rs. 2,000-2,000 aate hain. April-July, August-November, aur December-March mein. Status check karo pmkisan.gov.in pe ya 155261 pe call karo.
+
+Q: eKYC karaychi kashi? (How to do eKYC?)
+A: pmkisan.gov.in var eKYC option ahe. Aadhaar linked mobile number ne OTP through kara. Kiva CSC center var Aadhaar ghetun jaa.

@@ -1,0 +1,84 @@
+PMFBY - PRADHAN MANTRI FASAL BIMA YOJANA (CROP INSURANCE)
+Source: pmfby.gov.in (Official Government of India Portal)
+
+WHAT IS PMFBY?
+Pradhan Mantri Fasal Bima Yojana (PMFBY) is India's flagship government crop insurance scheme launched in 2016. It provides financial support to farmers suffering crop loss or damage from unforeseen events like drought, flood, pests, and natural calamities.
+
+WHO IS ELIGIBLE?
+- All farmers above 18 years of age growing notified crops in notified areas
+- Includes tenant farmers and sharecroppers
+- Both loanee and non-loanee farmers can apply
+- Farmers must have insurable interest in the notified crops
+
+WHAT CROPS ARE COVERED?
+- Cotton (Kharif)
+- Soybean (Kharif)
+- Tur/Arhar (Kharif)
+- Orange/Mosambi (Horticulture)
+- Food crops: cereals, millets, pulses
+- Annual commercial and horticultural crops
+
+PREMIUM RATES (FARMER'S SHARE):
+- Kharif crops (cotton, soybean, tur): Only 2% of sum insured
+- Rabi crops (wheat, gram): Only 1.5% of sum insured
+- Annual commercial/horticultural crops: 5% of sum insured
+- Remaining premium is paid by Central and State Government
+
+EXAMPLE: If sum insured is Rs. 50,000 per hectare for cotton:
+Farmer pays only Rs. 1,000 (2%)
+Government pays remaining Rs. 49,000+ (actuarial premium)
+
+WHAT RISKS ARE COVERED?
+1. Standing Crop Loss: Drought, flood, cyclone, hailstorm, pest attack, disease
+2. Prevented Sowing: Unable to sow due to deficit rainfall (up to 25% of sum insured)
+3. Post-Harvest Loss: Coverage up to 14 days after harvest against cyclone/unseasonal rain
+4. Localized Calamities: Hailstorm, landslide, inundation affecting isolated farms
+
+HOW TO ENROLL:
+Non-loanee farmers:
+1. Visit nearest bank, CSC (Common Service Centre), or pmfby.gov.in
+2. Submit documents: Aadhaar card, land records (7/12 extract or RoR), bank account details, sowing certificate
+3. Enrollment deadline: July 31 for Kharif crops, December 31 for Rabi crops
+Loanee farmers (KCC holders): Premium is automatically debited from crop loan account
+
+HOW TO FILE A CLAIM:
+1. Report crop loss within 72 hours of damage
+2. Intimation methods:
+   - Call toll-free: 1800-180-1551
+   - Visit pmfby.gov.in portal
+   - Visit nearest CSC or bank
+   - Use Crop Insurance mobile app
+3. Provide: Survey number of land, crop name, area affected, cause of loss, bank account number
+4. Insurance surveyor visits within 48 hours
+5. Loss assessment completed within 72 hours of surveyor appointment
+6. Claim payment within 15 days of loss assessment via Direct Benefit Transfer (DBT) to bank account
+
+DOCUMENTS REQUIRED FOR CLAIM:
+- Aadhaar card
+- Land ownership proof (7/12 extract)
+- Sowing certificate
+- Photos of crop damage
+- Bank account details linked to Aadhaar
+
+IMPORTANT NUMBERS AND CONTACTS:
+- PMFBY Toll-free helpline: 1800-180-1551
+- Official portal: pmfby.gov.in
+- Crop Insurance App: Available on Google Play Store
+- Nearest CSC: Common Service Centre in your village/taluka
+
+MARATHI KEYWORDS (for search matching):
+पीक विमा, PMFBY, फसल बीमा, पिकाचे नुकसान, विमा दावा, पीक नुकसान भरपाई, कापूस विमा, सोयाबीन विमा
+
+HINDI KEYWORDS:
+फसल बीमा, पीएमएफबीवाई, फसल नुकसान, बीमा दावा, कापास बीमा, सोयाबीन बीमा
+
+COMMON FARMER QUESTIONS AND ANSWERS:
+
+Q: Maza pik kharab zale, mi kay karu? (My crop is damaged, what should I do?)
+A: Lagar 72 tasanchy aatmadhe 1800-180-1551 ya number var call kara. Tumcha survey number, pik naav, ani nukasnachi karan sangaa. PMFBY madhye enroll asel tar claim milel.
+
+Q: PMFBY madhye register karaycha kasa? (How to register for PMFBY?)
+A: Najik bank, CSC center, kiva pmfby.gov.in var jaa. Aadhaar, 7/12 utara, bank passbook ghewa. Kharif pikansathi 31 July aadhi register kara.
+
+Q: Cotton pikasathi premium kiiti ahe? (How much premium for cotton?)
+A: Cotton sathi shetkaryala fakt 2% premium bharyache ahe. Baki sarkar bharate. Udaharnarth, Rs. 50,000 sum insured sathi fakt Rs. 1,000 bhara.

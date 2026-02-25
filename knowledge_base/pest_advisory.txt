@@ -1,0 +1,118 @@
+PEST AND DISEASE ADVISORY FOR VIDARBHA CROPS
+Source: ICAR (Indian Council of Agricultural Research), Vikaspedia, KVK Nagpur/Akola
+
+COTTON PEST MANAGEMENT (Vidarbha - Main crop)
+
+1. PINK BOLLWORM (Pectinophora gossypiella) - गुलाबी बोंड अळी
+Identification:
+- Pink colored larvae inside cotton bolls
+- Flower petals twisted like 'rosette'
+- Bolls fail to open properly, seeds stick together
+- Visible in August-October
+
+Control measures:
+- Use Bt cotton varieties (approved varieties)
+- Install pheromone traps: 5 traps per acre, replace lure every 21 days
+- Spray Chlorpyrifos 20 EC @ 2.5 ml/litre OR Profenophos 50 EC @ 2 ml/litre
+- Destroy crop residue after harvest
+- Report to nearest KVK or agriculture department
+Helpline: KVK Nagpur: 0712-2500477
+
+2. WHITEFLY (Bemisia tabaci) - पांढरी माशी
+Identification:
+- Tiny white insects under leaves
+- Leaves turn yellow, curl downward
+- Transmits Cotton Leaf Curl Virus
+
+Control measures:
+- Spray Imidacloprid 17.8 SL @ 0.5 ml/litre
+- Use yellow sticky traps
+- Avoid excessive nitrogen fertilizer
+- Spray in evening hours only
+
+3. APHIDS (Aphis gossypii) - माव
+Identification:
+- Tiny green/black insects in colonies on tender shoots
+- Sticky honeydew on leaves
+
+Control:
+- Spray Dimethoate 30 EC @ 2 ml/litre
+- Encourage natural predators (ladybird beetles)
+
+---
+
+SOYBEAN PEST MANAGEMENT (Vidarbha - Second major crop)
+
+1. STEM FLY (Melanagromyza sojae)
+Identification:
+- Yellowing of leaves in seedling stage
+- Stem shows tunneling when cut open
+- Wilting and death of seedlings (deadheart)
+
+Control:
+- Seed treatment: Thiamethoxam 30 FS @ 10 ml/kg seed before sowing
+- Spray Dimethoate 30 EC @ 2 ml/litre at 15 days after emergence
+
+2. GIRDLE BEETLE
+Identification:
+- Pods and stems show girdling marks
+- Branches break at girdle point
+
+Control:
+- Spray Chlorantraniliprole 18.5 SC @ 0.3 ml/litre
+- Collect and destroy fallen branches
+
+3. YELLOW MOSAIC VIRUS
+Identification:
+- Yellow patches on leaves
+- Spread by whitefly
+
+Control:
+- No direct cure - control whitefly vector
+- Remove and destroy infected plants immediately
+- Spray Imidacloprid to control whitefly
+
+---
+
+TUR/ARHAR PEST MANAGEMENT
+
+1. POD BORER (Helicoverpa armigera)
+Identification:
+- Larvae bore into pods and eat seeds
+- Visible in October-December (flowering-podding stage)
+
+Control:
+- Install pheromone traps: 5 per acre
+- Spray NPV (Nuclear Polyhedrosis Virus) @ 250 LE/acre
+- Chemical: Indoxacarb 15.8 EC @ 0.7 ml/litre
+
+---
+
+GENERAL ADVISORY:
+- Always spray in evening (5 PM - 7 PM) to protect bees
+- Use proper protective gear when spraying
+- Follow label instructions for dosage
+- For accurate diagnosis, send sample to KVK
+
+KRISHI VIGYAN KENDRA CONTACTS (Vidarbha):
+- KVK Nagpur: 0712-2500477
+- KVK Amravati: 0721-2668430
+- KVK Yavatmal: 07232-244722
+- KVK Akola: 0724-2451312
+
+MARATHI KEYWORDS:
+बोंड अळी, पांढरी माशी, किड नियंत्रण, कापूस किड, सोयाबीन किड, कीटकनाशक
+
+HINDI KEYWORDS:
+बोलवर्म, सफेद मक्खी, कीट नियंत्रण, कपास कीट, सोयाबीन कीट
+
+COMMON FARMER QUESTIONS:
+
+Q: Maza cotton la pink bollworm lagla, kay karu? (Pink bollworm attacked my cotton, what to do?)
+A: Pheromone saptade laava - per acre 5. Chlorpyrifos 20 EC 2.5 ml prati litre paanyat mison favarava. Sandhyakali 5 nanter favara. KVK Nagpur la call kara: 0712-2500477.
+
+Q: Soybean la piwala padala, karan kay? (Soybean is turning yellow, what is the reason?)
+A: Doh karan aasat - stem fly kiva yellow mosaic virus. Kond kapat pahaa - middle bhag hollow asel tar stem fly. Pattyavar piwale thebbe asel tar virus. Whitefly control karaychi aahe - Imidacloprid 0.5 ml/litre favara.
+
+Q: Tur la aळी lagali, kay karu? (Worm attack on tur, what to do?)
+A: He pod borer ahe. Pheromone saptade laava. Indoxacarb 15.8 EC 0.7 ml prati litre favara. Sandhyakali favara kara.
